@@ -1,1 +1,4 @@
-[["game1","this is acuatauly not a game lol"]]
+[
+["game1",
+"this is acuatauly not a game lol"]
+]
